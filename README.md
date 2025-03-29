@@ -1,1 +1,1 @@
-# -Sber_ITMO_2025
+# Sber_ITMO_2025
